@@ -1,7 +1,7 @@
 import React from "react";
 import {TiHeartFullOutline} from "react-icons/ti";
 
-const Test2 = () => {
+class Test2 {
   return (
     <div>
       <div className={"description"}>
